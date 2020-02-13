@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Torpid</string>
+    <string name="title_activity_bus">Bus</string>
+    <string name="title_activity_train">Train</string>
+    <string name="title_activity_table">Torpid</string>
+</resources>
